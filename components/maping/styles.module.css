@@ -1,0 +1,10 @@
+.main {
+  background-color: cadetblue;
+  border: black solid 1px;
+}
+.box {
+  width: 80%;
+  margin: 5px auto;
+  padding: 10px;
+  border: blue dotted 2px;
+}
